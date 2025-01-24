@@ -44,7 +44,6 @@ Explore the dashboard by interacting with the visuals and filters.
 **Market Insights Overview**
 
 1.**Top-Performing States**
-
 California, Texas, New York:
 
 a.Large populations and high demand drive sales.
