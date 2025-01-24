@@ -38,38 +38,54 @@ Explore the dashboard by interacting with the visuals and filters.
 **Market Insights Overview**
 
 1.**Top-Performing States**
+
 a.California, Texas, New York:
+
 b.Large populations and high demand drive sales.
+
 c.Well-established retail networks enhance market access.
+
 d.Strong brand loyalty supports premium pricing.
 
 2.**Underperforming States**
 Montana, Wyoming:
+
 a.Low population density limits market size.
+
 b.Limited retail infrastructure reduces accessibility.
+
 c.Economic factors may deter demand for premium products.
 
 3.**Operating Profitability Challenges**
 Arizona, Nevada:
 a.High transportation and logistics costs.
+
 b.Price competition squeezes profit margins.
+
 c.Seasonal demand creates inconsistent profitability.
 
 4.**Price Sensitivity**
 Kentucky, Tennessee:
 a.Lower income levels foster price-conscious buying behavior.
+
 b.Competitive markets increase reliance on discounts.
+
 c.Consumers prefer value-oriented products over premium options.
 
 4.**Seasonal and Regional Trends**
 a.Summer Peaks: High sales of sportswear and outdoor products.
+
 b.Urbanization Advantage: Coastal and urban areas (e.g., California, Florida) outperform rural and inland markets due to stronger retail presence.
 
 
 **Recommendations for Growth**
 Localized Marketing: Target underperforming states with tailored campaigns.
+
 Operational Efficiency: Improve supply chains and pricing strategies in low-margin states.
+
 Premium Product Focus: Expand premium offerings in high-value markets to maximize revenue and leverage brand loyalty.
+
 Seasonal Peaks: Sales peak during the summer, aligning with increased demand for sportswear and outdoor activities.
+
 Regional Performance: Coastal states, like California and Florida, outperform inland regions due to urbanization and stronger retail presence.
 
