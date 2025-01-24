@@ -6,7 +6,9 @@ This Power BI dashboard analyzes Adidas' US sales data to uncover key trends, in
 
 🛠 Tools & Technologies
 Power BI: For data visualization and dashboard creation.
+
 DAX: To create calculated measures and columns for advanced insights.
+
 Excel/SQL: For data preprocessing.
 
 
