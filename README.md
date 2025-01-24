@@ -9,7 +9,7 @@ Power BI: For data visualization and dashboard creation.
 
 DAX: To create calculated measures and columns for advanced insights.
 
-Excel/SQL: For data preprocessing.
+Microsoft Excel: For data preprocessing.
 
 
 🚀 Key Features
