@@ -45,13 +45,13 @@ Explore the dashboard by interacting with the visuals and filters.
 
 1.**Top-Performing States**
 
-a.California, Texas, New York:
+California, Texas, New York:
 
-b.Large populations and high demand drive sales.
+a.Large populations and high demand drive sales.
 
-c.Well-established retail networks enhance market access.
+b.Well-established retail networks enhance market access.
 
-d.Strong brand loyalty supports premium pricing.
+c.Strong brand loyalty supports premium pricing.
 
 2.**Underperforming States**
 Montana, Wyoming:
