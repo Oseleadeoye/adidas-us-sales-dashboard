@@ -14,12 +14,18 @@ Excel/SQL: For data preprocessing.
 Sales Trends Analysis: Interactive charts showing sales over time with filters for regions, product categories, and more.
 Regional Performance: Geographical maps highlighting high-performing areas.
 KPI Cards: Key performance indicators (KPIs) like 
+
 1.Total Sales
+
 2.Operating Profit
+
 3.Units Sold
+
 4.Price per Unit
+
 5.Operating Margin
-Product Insights: Breakdown of sales by product category and top-performing items.
+
+
 
 
 📂 File Structure
