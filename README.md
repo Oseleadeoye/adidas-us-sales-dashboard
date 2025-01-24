@@ -44,6 +44,7 @@ Explore the dashboard by interacting with the visuals and filters.
 **Market Insights Overview**
 
 1.**Top-Performing States**
+
 California, Texas, New York:
 
 a.Large populations and high demand drive sales.
@@ -57,13 +58,16 @@ Montana, Wyoming:
 
 a.Low population density limits market size.
 
+
 b.Limited retail infrastructure reduces accessibility.
+
 
 c.Economic factors may deter demand for premium products.
 
 3.**Operating Profitability Challenges**
 
 Arizona, Nevada:
+
 a.High transportation and logistics costs.
 
 b.Price competition squeezes profit margins.
@@ -72,6 +76,7 @@ c.Seasonal demand creates inconsistent profitability.
 
 4.**Price Sensitivity**
 Kentucky, Tennessee:
+
 a.Lower income levels foster price-conscious buying behavior.
 
 b.Competitive markets increase reliance on discounts.
@@ -79,6 +84,7 @@ b.Competitive markets increase reliance on discounts.
 c.Consumers prefer value-oriented products over premium options.
 
 4.**Seasonal and Regional Trends**
+
 a.Summer Peaks: High sales of sportswear and outdoor products.
 
 b.Urbanization Advantage: Coastal and urban areas (e.g., California, Florida) outperform rural and inland markets due to stronger retail presence.
