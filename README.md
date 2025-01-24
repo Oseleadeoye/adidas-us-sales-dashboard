@@ -62,6 +62,7 @@ b.Limited retail infrastructure reduces accessibility.
 c.Economic factors may deter demand for premium products.
 
 3.**Operating Profitability Challenges**
+
 Arizona, Nevada:
 a.High transportation and logistics costs.
 
