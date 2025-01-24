@@ -1,5 +1,6 @@
 # adidas-us-sales-dashboard
 📊 Project Overview
+
 This Power BI dashboard analyzes Adidas' US sales data to uncover key trends, insights, and performance metrics. The project focuses on identifying regional sales patterns, product category performance, and year-over-year growth to support strategic decision-making.
 
 
