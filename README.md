@@ -41,6 +41,12 @@ Download the .pbix file from this repository.
 Open the file in Power BI Desktop.
 Explore the dashboard by interacting with the visuals and filters.
 
+Below is a snippet of the final dashboard in Power BI.
+
+
+
+<img width="783" alt="Adidas US Sales Dashboard" src="https://github.com/user-attachments/assets/a875df21-21c2-4399-8a26-b8c5a607f4cf" />
+
 
 🔍 Insights
 **Market Insights Overview**
